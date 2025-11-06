@@ -17,3 +17,4 @@
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
