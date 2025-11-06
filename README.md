@@ -1,4 +1,4 @@
-# **Hallo!**👋 I'm Ryu naja
+# Hallo!👋 I'm Ryu naja
 
 - I sometime code ~(mostly gaming🎮)~
 
