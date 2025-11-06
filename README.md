@@ -1,5 +1,6 @@
 # Hallo!👋 I'm Ryu naja
 
+- I major in computer engineering
 - I sometime code ~(mostly gaming🎮)~
 - I have some project ideas but too lazy to do it 🙃
 
