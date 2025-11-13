@@ -1,5 +1,7 @@
 # Hallo!👋 I'm Ryu naja
 
+![ryunaja's GitHub stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=8721&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
+
 - I major in computer engineering
 - I sometime code ~(mostly gaming🎮)~
 - I have some project ideas but too lazy to do it 🙃
